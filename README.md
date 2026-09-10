@@ -13,27 +13,26 @@
 > 🔒 **접근 안내:** 특허 출원 및 출판 전 엠바고 등의 이유로 대부분의 코드 저장소는 접근이 제한(Private)되어 있습니다. CSDL 조직 멤버는 GitHub 로그인 시 모든 저장소에 정상적으로 접근할 수 있습니다.
 
 ## 📝 Research Publications
-| Repository | Project Title (Paper/Link) | Authors | Contact |
-|---|---|---|---|
-| [LIBMixer_ASPDAC](https://github.com/csdl-projects/LIBMixer_ASPDAC) | Libmixer: An all-mlp architecture for cell library characterization towards design space optimization | Jaeseung Lee, Sunggyu Jang, Jakang Lee, Seokhyeong Kang | jae2seung@postech.ac.kr |
-| [MLCASim](https://github.com/csdl-projects/MLCASim) | [Machine Learning-based Fast Circuit Simulation for Analog Circuit Array](https://ieeexplore.ieee.org/abstract/document/10299876) | Jaeseung Lee, Sejin Park, Minhyeok Kweon, Seokhyeong Kang | jae2seung@postech.ac.kr |
-| [ICCAD2022](https://github.com/csdl-projects/ICCAD2022) | ICCAD2022 contest B | Jaeseung Lee, Dohun Kim, Minjae Kim , Seongbin Kwon, Seojeong Kim , Seungju Lee | jae2seung@postech.ac.kr |
+| Repository | Project Title (Paper/Link) | Venue (Year) | Authors | Contact |
+|---|---|---|---|---|
+| [LIBMixer_ASPDAC](https://github.com/csdl-projects/LIBMixer_ASPDAC) | Libmixer: An all-mlp architecture for cell library characterization towards design space optimization | - | Jaeseung Lee, Sunggyu Jang, Jakang Lee, Seokhyeong Kang | jae2seung@postech.ac.kr |
+| [MLCASim](https://github.com/csdl-projects/MLCASim) | [Machine Learning-based Fast Circuit Simulation for Analog Circuit Array](https://ieeexplore.ieee.org/abstract/document/10299876) | - | Jaeseung Lee, Sejin Park, Minhyeok Kweon, Seokhyeong Kang | jae2seung@postech.ac.kr |
+| [ICCAD2022](https://github.com/csdl-projects/ICCAD2022) | ICCAD2022 contest B | - | Jaeseung Lee, Dohun Kim, Minjae Kim , Seongbin Kwon, Seojeong Kim , Seungju Lee | jae2seung@postech.ac.kr |
 
 ## 🏆 Contests & Competitions
-| Repository | Project Title (Paper/Link) | Authors | Contact |
+| Repository | Project Title (Link) | Authors | Contact |
 |---|---|---|---|
 | [TinyML2022](https://github.com/csdl-projects/TinyML2022) | TinyML contest 2022 | Seojeong Kim , Seungju Lee |  |
 
 ## 🛠️ EDA Tools & Scripts
-| Repository | Project Title (Paper/Link) | Authors | Contact |
+| Repository | Project Title (Link) | Authors | Contact |
 |---|---|---|---|
 | [LIBGen](https://github.com/csdl-projects/LIBGen) | Library Characterization flow for ASAP7 | Jaeseung Lee | jae2seung@postech.ac.kr |
 | [Project_Placement](https://github.com/csdl-projects/Project_Placement) | Project_Placement for assignment | Jaeseung Lee, Minjae Kim | jae2seung@postech.ac.kr |
 
 ## 기타 / 분류 안 됨
-| Repository | Project Title (Paper/Link) | Authors | Contact |
+| Repository | Project Title (Link) | Authors | Contact |
 |---|---|---|---|
-| [projects-index](https://github.com/csdl-projects/projects-index) | N/A | N/A | N/A |
 | [CSDL-Website-Migration](https://github.com/csdl-projects/CSDL-Website-Migration) | N/A | N/A | N/A |
 | [git_management_2026](https://github.com/csdl-projects/git_management_2026) | N/A | N/A | N/A |
 | [Server-Manual](https://github.com/csdl-projects/Server-Manual) | N/A | N/A | N/A |
