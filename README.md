@@ -15,7 +15,7 @@
 ## 📝 Research Publications
 | Repository | Project Title (Paper/Link) | Venue (Year) | Authors | Contact |
 |---|---|---|---|---|
-| [LIBMixer_ASPDAC](https://github.com/csdl-projects/LIBMixer_ASPDAC) | Libmixer: An all-mlp architecture for cell library characterization towards design space optimization | - | Jaeseung Lee, Sunggyu Jang, Jakang Lee, Seokhyeong Kang | jae2seung@postech.ac.kr |
+| [LIBMixer_ASPDAC](https://github.com/csdl-projects/LIBMixer_ASPDAC) | [Libmixer: An all-mlp architecture for cell library characterization towards design space optimization](https://dl.acm.org/doi/abs/10.1145/3658617.3697602) | ASPDAC (2025) | Jaeseung Lee, Sunggyu Jang, Jakang Lee, Seokhyeong Kang | jae2seung@postech.ac.kr |
 | [MLCASim](https://github.com/csdl-projects/MLCASim) | [Machine Learning-based Fast Circuit Simulation for Analog Circuit Array](https://ieeexplore.ieee.org/abstract/document/10299876) | - | Jaeseung Lee, Sejin Park, Minhyeok Kweon, Seokhyeong Kang | jae2seung@postech.ac.kr |
 | [ICCAD2022](https://github.com/csdl-projects/ICCAD2022) | ICCAD2022 contest B | - | Jaeseung Lee, Dohun Kim, Minjae Kim , Seongbin Kwon, Seojeong Kim , Seungju Lee | jae2seung@postech.ac.kr |
 
