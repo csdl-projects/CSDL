@@ -22,6 +22,7 @@
 ## 🏆 Contests & Competitions
 | Repository | Project Title (Link) | Authors | Contact |
 |---|---|---|---|
+| [ICCAD2023](https://github.com/csdl-projects/ICCAD2023) | ICCAD2023 contest A | kmcho |  |
 | [ICCAD2022](https://github.com/csdl-projects/ICCAD2022) | ICCAD2022 contest B | Jaeseung Lee, Dohun Kim, Minjae Kim , Seongbin Kwon, Seojeong Kim , Seungju Lee |  |
 | [TinyML2022](https://github.com/csdl-projects/TinyML2022) | TinyML contest 2022 | Seojeong Kim , Seungju Lee |  |
 
@@ -31,14 +32,17 @@
 | [LIBGen](https://github.com/csdl-projects/LIBGen) | Library Characterization flow for ASAP7 | Jaeseung Lee | jae2seung@postech.ac.kr |
 | [Project_Placement](https://github.com/csdl-projects/Project_Placement) | Project_Placement for assignment | Jaeseung Lee, Minjae Kim | jae2seung@postech.ac.kr |
 
+## 🖥️ Infrastructure & Docs
+| Repository | Project Title (Link) | Authors | Contact |
+|---|---|---|---|
+| [git_management_2026](https://github.com/csdl-projects/git_management_2026) | CSDL github management | Jaeseung Lee | jae2seung@postech.ac.kr |
+| [Server-Manual](https://github.com/csdl-projects/Server-Manual) | Server-Manual 2025 | Jaeseung Lee | jae2seung@postech.ac.kr |
+
 ## 기타 / 분류 안 됨
 | Repository | Project Title (Link) | Authors | Contact |
 |---|---|---|---|
 | [CSDL-Website-Migration](https://github.com/csdl-projects/CSDL-Website-Migration) | N/A | N/A | N/A |
-| [git_management_2026](https://github.com/csdl-projects/git_management_2026) | N/A | N/A | N/A |
-| [Server-Manual](https://github.com/csdl-projects/Server-Manual) | N/A | N/A | N/A |
 | [CAD_utils](https://github.com/csdl-projects/CAD_utils) | N/A | N/A | N/A |
-| [ICCAD2023](https://github.com/csdl-projects/ICCAD2023) | N/A | N/A | N/A |
 | [OpenROAD](https://github.com/csdl-projects/OpenROAD) | N/A | N/A | N/A |
 | [.github](https://github.com/csdl-projects/.github) | N/A | N/A | N/A |
 | [online-cv](https://github.com/csdl-projects/online-cv) | N/A | N/A | N/A |
