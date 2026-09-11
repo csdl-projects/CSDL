@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 CSDL Projects Archive</h1>
   <p>
-    <b>Computer System Design Laboratory @ POSTECH</b><br>
+    <b>CAD and SoC Design Lab @ POSTECH</b><br>
     <a href="https://csdl.postech.ac.kr/">Official Website</a> • <a href="https://csdl-postech.github.io/Homepage/">GitHub Pages</a>
   </p>
 </div>
