@@ -15,9 +15,9 @@
 ## 📝 Research Publications
 | Repository | Project Title (Paper/Link) | Venue (Year) | Authors | Contact |
 |---|---|---|---|---|
+| [MLCASim](https://github.com/csdl-projects/MLCASim) | [Machine Learning-based Fast Circuit Simulation for Analog Circuit Array](https://ieeexplore.ieee.org/abstract/document/10299876) | MLCAD (2023) | Jaeseung Lee, Sejin Park, Minhyeok Kweon, Seokhyeong Kang | jae2seung@postech.ac.kr |
 | [REvolution](https://github.com/csdl-projects/REvolution) | [REvolution: An Evolutionary Framework for RTL Generation driven by Large Language Models](https://arxiv.org/abs/2510.21407) | ASPDAC (2026) | Kyungjun Min*, Kyumin Cho*, Junhwan Jang, and Seokhyeong Kang | kj.min@postech.ac.kr |
 | [LIBMixer_ASPDAC](https://github.com/csdl-projects/LIBMixer_ASPDAC) | [Libmixer: An all-mlp architecture for cell library characterization towards design space optimization](https://dl.acm.org/doi/abs/10.1145/3658617.3697602) | ASPDAC (2025) | Jaeseung Lee, Sunggyu Jang, Jakang Lee, Seokhyeong Kang | jae2seung@postech.ac.kr |
-| [MLCASim](https://github.com/csdl-projects/MLCASim) | [Machine Learning-based Fast Circuit Simulation for Analog Circuit Array](https://ieeexplore.ieee.org/abstract/document/10299876) | - | Jaeseung Lee, Sejin Park, Minhyeok Kweon, Seokhyeong Kang | jae2seung@postech.ac.kr |
 
 ## 🏆 Contests & Competitions
 | Repository | Project Title (Link) | Authors | Contact |
